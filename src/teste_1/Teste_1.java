@@ -17,6 +17,7 @@ public class Teste_1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Ola Mundo");
+        System.out.println("Cruzeiro maior de Todos");
         
       
     }
